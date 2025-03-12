@@ -1,0 +1,4 @@
+vim main.py
+#!/bin/bash
+python3 $PYFILE
+
